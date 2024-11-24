@@ -1,3 +1,5 @@
+Link: https://eehh-stanford.github.io/SNA-workshop/ergm-intro.html
+
 # Welcome!
 
 In this workshop, we will explore social network analysis (SNA), a set of methods and theories used in the analysis of social structure. We will work with a variety of state-of-the-art tools available in the free statistical language, R, emphasizing in particular the use of statistical models for networks (e.g., exponential random graph models) and network visualization. We focus on data as they would be collected in face-to-face, anthropological fieldwork (i.e., either through direct observation or through ethnographic interviews or surveys), which makes this workshop different from most SNA short courses. This means generally concentrating on egocentric network, two-mode network, and sampled network data. 
